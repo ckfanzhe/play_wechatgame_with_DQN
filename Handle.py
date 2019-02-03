@@ -29,6 +29,7 @@ class Handle:
     def getstate(self):
         self.state = []
         for _ in range(4):
+            time.sleep(0.06)
             self.getimage()
             self.state.append(self.image_view)
         self.state = np.stack(self.state,axis=0)

@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../Game/easylevel/.idea/easylevel.iml" filepath="$PROJECT_DIR$/../../Game/easylevel/.idea/easylevel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Game/flappybirdd/.idea/flappybirdd.iml" filepath="$PROJECT_DIR$/../../Game/flappybirdd/.idea/flappybirdd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Game/wechat/.idea/wechat.iml" filepath="$PROJECT_DIR$/../../Game/wechat/.idea/wechat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/wechatgame.iml" filepath="$PROJECT_DIR$/.idea/wechatgame.iml" />
     </modules>
   </component>
